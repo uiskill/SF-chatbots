@@ -1,0 +1,9 @@
+{
+  "welcome": "Student Performance Dashboard",
+  "total_stud": "Total Students",
+  "avg_attandance": "Avg Attendance",
+  "student_marks": "Avg Marks",
+  "pass-fail": "Pass vs Fail",
+  "student_by_marks": "Marks by Student",
+    "Attendance Trend": "Attendance Trend"
+}
